@@ -1,0 +1,51 @@
+fieldset {
+    margin-left: 150px;
+    margin-right: 100px;
+    text-align: left;
+    margin-top: 10px;
+    margin-bottom: 90px;
+    padding-bottom: 200px;
+    height: 40vh;
+    border: none;
+}
+
+label {
+    font-size: 23px;
+}
+
+Input {
+    max-width: 500px;
+}
+
+Select {
+    max-width: 200px;
+}
+
+button {
+    max-width: 120px;
+}
+
+heading {
+    margin-left: 100px;
+}
+
+.chooseTime {
+    resize: horizontal;
+    width: 170px;
+    height: 20px
+}
+
+.descBox{
+    width: 360px;
+    height: 100px
+}
+
+.backButton{
+    position: relative;
+    left: 60px
+}
+
+.canceled{
+    text-align:center;
+    font-size:larger;
+}
